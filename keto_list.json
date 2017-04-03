@@ -125,5 +125,515 @@
     "name": "Romaine Lettuce",
     "keto": "yes",
     "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "22",
+    "name": "Heavy whipping cream",
+    "keto": "yes",
+    "category": "Dairy"
+  },
+  {
+    "id": "23",
+    "name": "Cheeses (both hard and soft)",
+    "keto": "yes",
+    "category": "Dairy"
+  },
+  {
+    "id": "24",
+    "name": "Sour Cream",
+    "keto": "yes",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "25",
+    "name": "Walnuts",
+    "keto": "yes",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "id": "26",
+    "name": "Almonds",
+    "keto": "yes",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "id": "27",
+    "name": "Seed Based Flours",
+    "keto": "yes",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "id": "28",
+    "name": "Sunflower seeds",
+    "keto": "yes",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "id": "29",
+    "name": "Water",
+    "keto": "yes",
+    "category": "Beverages"
+  },
+  {
+    "id": "30",
+    "name": "Coffee (black)",
+    "keto": "yes",
+    "category": "Beverages"
+  },
+  {
+    "id": "31",
+    "name": "Tea (Without milk & sugar)",
+    "keto": "yes",
+    "category": "Beverages"
+  },
+  {
+    "id": "32",
+    "name": "Sugar free flavor packets",
+    "keto": "yes",
+    "category": "Beverages"
+  },
+  {
+    "id": "33",
+    "name": "Coconut Butter",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "34",
+    "name": "Cocoa Butter",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "35",
+    "name": "Coconut Oil",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "36",
+    "name": "Avocado Oil",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "37",
+    "name": "Macadamia Oil",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "38",
+    "name": "MCT Oil",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "39",
+    "name": "Lard",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "40",
+    "name": "Clams",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "41",
+    "name": "Oysters",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "42",
+    "name": "Lobster",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "43",
+    "name": "Clams",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "44",
+    "name": "Crab",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "45",
+    "name": "Scallops",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "46",
+    "name": "Mussels",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "47",
+    "name": "squid",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "48",
+    "name": "squid",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "49",
+    "name": "Ground beef",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "50",
+    "name": "Steak",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "51",
+    "name": "Beef Roast",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "52",
+    "name": "Duck",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "53",
+    "name": "Quail",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "54",
+    "name": "pheasant",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "55",
+    "name": "Ground pork",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "56",
+    "name": "Pork loin",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "57",
+    "name": "Pork chops",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "58",
+    "name": "Tenderloin",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "59",
+    "name": "Ham (Cured without use of sugar)",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "60",
+    "name": "Bacon",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "61",
+    "name": "Sausage",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "62",
+    "name": "Cabbage",
+    "keto": "yes",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "63",
+    "name": "Cauliflower",
+    "keto": "yes",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "64",
+    "name": "Spinach",
+    "keto": "yes",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "65",
+    "name": "Green Bell Pepper",
+    "keto": "yes",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "65",
+    "name": "Green Beans",
+    "keto": "yes",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "66",
+    "name": "Greek Yogurt",
+    "keto": "yes",
+    "category": "Dairy"
+  },
+  {
+    "id": "67",
+    "name": "Cream Cheese",
+    "keto": "yes",
+    "category": "Dairy"
+  },
+  {
+    "id": "68",
+    "name": "Mozarella Cheese",
+    "keto": "yes",
+    "category": "Dairy"
+  },
+  {
+    "id": "69",
+    "name": "Brie Cheese",
+    "keto": "yes",
+    "category": "Dairy"
+  },
+  {
+    "id": "70",
+    "name": "Blue Cheese",
+    "keto": "yes",
+    "category": "Dairy"
+  },
+  {
+    "id": "71",
+    "name": "Colby Cheese",
+    "keto": "yes",
+    "category": "Dairy"
+  },
+  {
+    "id": "72",
+    "name": "Monterey Jack Cheese",
+    "keto": "yes",
+    "category": "Dairy"
+  },
+  {
+    "id": "73",
+    "name": "Aged Cheddar Cheese",
+    "keto": "yes",
+    "category": "Dairy"
+  },
+  {
+    "id": "74",
+    "name": "Parmesan Cheese",
+    "keto": "yes",
+    "category": "Dairy"
+  },
+  {
+    "id": "75",
+    "name": "Feta Cheese",
+    "keto": "yes",
+    "category": "Dairy"
+  },
+  {
+    "id": "76",
+    "name": "Swiss Cheese",
+    "keto": "yes",
+    "category": "Dairy"
+  },
+  {
+    "id": "77",
+    "name": "Hazelnuts",
+    "keto": "yes",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "id": "78",
+    "name": "Coconut Milk",
+    "keto": "yes",
+    "category": "Beverages"
+  },
+  {
+    "id": "79",
+    "name": "Almond Milk",
+    "keto": "yes",
+    "category": "Beverages"
+  },
+  {
+    "id": "80",
+    "name": "Cayenne Pepper",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "81",
+    "name": "Chili Powder",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "82",
+    "name": "Cinnamon",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "83",
+    "name": "Cumin",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "84",
+    "name": "Oregano",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "85",
+    "name": "Basil",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "86",
+    "name": "Cilantro",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "87",
+    "name": "Parsley",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "88",
+    "name": "Rosemary",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "89",
+    "name": "Thyme",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "90",
+    "name": "Mayonnaise",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "91",
+    "name": "Sugar Free Ketchup",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "92",
+    "name": "Mustard",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "93",
+    "name": "Hot Sauce (sugar free)",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "94",
+    "name": "Sauerkraut (Low, or no sugar added)",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "95",
+    "name": "Relish (low, or no sugar added)",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "96",
+    "name": "Horseradish",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "97",
+    "name": "Salad Dressings (ranch, caesar, unsweetened vinaigrettes, etc)",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "98",
+    "name": "Stevia",
+    "keto": "yes",
+    "category": "Sweeteners"
+  },
+  {
+    "id": "99",
+    "name": "Sucralose",
+    "keto": "yes",
+    "category": "Sweeteners"
+  },
+  {
+    "id": "100",
+    "name": "Erythritol",
+    "keto": "yes",
+    "category": "Sweeteners"
+  },
+  {
+    "id": "101",
+    "name": "Potatoes",
+    "keto": "no",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "102",
+    "name": "Bananas",
+    "keto": "no",
+    "category": "Fruit"
+  },
+  {
+    "id": "103",
+    "name": "Apples",
+    "keto": "no",
+    "category": "Fruit"
+  },
+  {
+    "id": "104",
+    "name": "Oranges",
+    "keto": "no",
+    "category": "Fruit"
+  },
+  {
+    "id": "105",
+    "name": "Yams / Sweet Potatoes",
+    "keto": "no",
+    "category": "Vegetables & Legumes"
   }
 ]
