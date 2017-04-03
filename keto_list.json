@@ -35,5 +35,95 @@
     "name": "Shellfish",
     "keto": "yes",
     "category": "Meat & Substitutes"
+  },
+  {
+    "id": "7",
+    "name": "Beef tallow",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "8",
+    "name": "Butter",
+    "keto": "yes",
+    "category": "Dairy"
+  },
+  {
+    "id": "9",
+    "name": "Macademia nuts",
+    "keto": "yes",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "id": "10",
+    "name": "Chicken fat",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "11",
+    "name": "Olive oil",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "12",
+    "name": "Avocado",
+    "keto": "yes",
+    "category": "Fruit"
+  },
+  {
+    "id": "13",
+    "name": "Peanut Butter",
+    "keto": "yes",
+    "category": "Condiments & Cooking Ingredients"
+  },
+  {
+    "id": "14",
+    "name": "Asparagus",
+    "keto": "yes",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "15",
+    "name": "Broccoli",
+    "keto": "yes",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "16",
+    "name": "Celery",
+    "keto": "yes",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "17",
+    "name": "Celery",
+    "keto": "yes",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "18",
+    "name": "Garlic",
+    "keto": "yes",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "19",
+    "name": "Onions",
+    "keto": "yes",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "20",
+    "name": "Mushrooms",
+    "keto": "yes",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "21",
+    "name": "Romaine Lettuce",
+    "keto": "yes",
+    "category": "Vegetables & Legumes"
   }
 ]
