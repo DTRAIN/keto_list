@@ -1,0 +1,15 @@
+
+[
+  {
+    "id": "1",
+    "name": "Polenta",
+    "keto": "good",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "2",
+    "name": "Fennel",
+    "keto": "bad",
+    "category": "Vegetables and legumes"
+  }
+]
