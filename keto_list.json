@@ -391,12 +391,6 @@
     "category": "Vegetables & Legumes"
   },
   {
-    "id": "65",
-    "name": "Green Beans",
-    "keto": "yes",
-    "category": "Vegetables & Legumes"
-  },
-  {
     "id": "66",
     "name": "Greek Yogurt",
     "keto": "yes",
@@ -634,6 +628,12 @@
     "id": "105",
     "name": "Yams / Sweet Potatoes",
     "keto": "no",
+    "category": "Vegetables & Legumes"
+  } ,
+  {
+    "id": "106",
+    "name": "Green Beans",
+    "keto": "yes",
     "category": "Vegetables & Legumes"
   }
 ]
