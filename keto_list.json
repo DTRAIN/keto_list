@@ -2,14 +2,38 @@
 [
   {
     "id": "1",
-    "name": "Polenta",
-    "keto": "no",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "name": "Fish",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
   },
   {
     "id": "2",
-    "name": "Fennel",
-    "keto": "no",
-    "category": "Vegetables and legumes"
+    "name": "Beef",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "3",
+    "name": "Chicken",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "4",
+    "name": "Pork",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "5",
+    "name": "Bacon",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "id": "6",
+    "name": "Shellfish",
+    "keto": "yes",
+    "category": "Meat & Substitutes"
   }
 ]
