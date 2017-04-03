@@ -3,13 +3,13 @@
   {
     "id": "1",
     "name": "Polenta",
-    "keto": "good",
+    "keto": "no",
     "category": "Breads, Cereals, Grains and Pasta"
   },
   {
     "id": "2",
     "name": "Fennel",
-    "keto": "bad",
+    "keto": "no",
     "category": "Vegetables and legumes"
   }
 ]
