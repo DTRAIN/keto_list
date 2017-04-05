@@ -629,11 +629,35 @@
     "name": "Yams / Sweet Potatoes",
     "keto": "no",
     "category": "Vegetables & Legumes"
-  } ,
+  },
   {
     "id": "106",
     "name": "Green Beans",
     "keto": "yes",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "107",
+    "name": "Peas",
+    "keto": "no",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "108",
+    "name": "Corn",
+    "keto": "no",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "109",
+    "name": "Parsnips",
+    "keto": "no",
+    "category": "Vegetables & Legumes"
+  },
+  {
+    "id": "110",
+    "name": "Beans",
+    "keto": "no",
     "category": "Vegetables & Legumes"
   }
 ]
