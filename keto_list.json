@@ -749,5 +749,59 @@
     "name": "Fava beans",
     "keto": "no",
     "category": "Vegetables & Legumes"
-  }  
+  },
+  {
+    "id": "126",
+    "name": "Bananas",
+    "keto": "no",
+    "category": "Fruit"
+  },
+  {
+    "id": "127",
+    "name": "Pineapples",
+    "keto": "no",
+    "category": "Fruit"
+  },
+  {
+    "id": "128",
+    "name": "Papaya",
+    "keto": "no",
+    "category": "Fruit"
+  },
+  {
+    "id": "129",
+    "name": "Apples",
+    "keto": "no",
+    "category": "Fruit"
+  },
+  {
+    "id": "130",
+    "name": "Oranges",
+    "keto": "no",
+    "category": "Fruit"
+  },
+  {
+    "id": "131",
+    "name": "Grapes",
+    "keto": "no",
+    "category": "Fruit"
+  },
+  {
+    "id": "132",
+    "name": "Mangos",
+    "keto": "no",
+    "category": "Fruit"
+  },
+  {
+    "id": "133",
+    "name": "Tangerines",
+    "keto": "no",
+    "category": "Fruit"
+  },
+  {
+    "id": "134",
+    "name": "Dried fruit",
+    "keto": "no",
+    "category": "Fruit"
+  }
 ]
