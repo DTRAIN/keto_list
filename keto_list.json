@@ -835,9 +835,63 @@
     "category": "Beverages"
   },
   {
-    "id": "139",
+    "id": "140",
     "name": "Fruit juices",
     "keto": "no",
     "category": "Beverages"
+  },
+  {
+    "id": "141",
+    "name": "Honey",
+    "keto": "no",
+    "category":"Sweeteners"
+  },
+  {
+    "id": "142",
+    "name": "Agave nectar",
+    "keto": "no",
+    "category":"Sweeteners"
+  },
+  {
+    "id": "143",
+    "name": "Maple syrup",
+    "keto": "no",
+    "category":"Sweeteners"
+  },
+  {
+    "id": "144",
+    "name": "Raw sugar",
+    "keto": "no",
+    "category":"Sweeteners"
+  },
+  {
+    "id": "145",
+    "name": "Turbinado sugar",
+    "keto": "no",
+    "category":"Sweeteners"
+  },
+  {
+    "id": "146",
+    "name": "High-fructose corn syrup",
+    "keto": "no",
+    "category":"Sweeteners"
+  },
+  {
+    "id": "147",
+    "name": "Cane sugar",
+    "keto": "no",
+    "category":"Sweeteners"
+  },
+  {
+    "id": "148",
+    "name": "White sugar",
+    "keto": "no",
+    "category":"Sweeteners"
+  },
+  {
+    "id": "149",
+    "name": "Milk (2%, skim, whole)",
+    "keto": "no",
+    "category":"Dairy"
   }
 ]
