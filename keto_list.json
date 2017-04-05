@@ -803,5 +803,41 @@
     "name": "Dried fruit",
     "keto": "no",
     "category": "Fruit"
+  },
+  {
+    "id": "135",
+    "name": "Beer",
+    "keto": "no",
+    "category": "Beverages"
+  },
+  {
+    "id": "136",
+    "name": "Wine",
+    "keto": "no",
+    "category": "Beverages"
+  },
+  {
+    "id": "137",
+    "name": "Cocktails",
+    "keto": "no",
+    "category": "Beverages"
+  },
+  {
+    "id": "138",
+    "name": "Flavored liquors",
+    "keto": "no",
+    "category": "Beverages"
+  },
+  {
+    "id": "139",
+    "name": "Soda",
+    "keto": "no",
+    "category": "Beverages"
+  },
+  {
+    "id": "139",
+    "name": "Fruit juices",
+    "keto": "no",
+    "category": "Beverages"
   }
 ]
