@@ -777,73 +777,133 @@
     "id": "81",
     "name": "Chili Powder",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+	"details":{
+		"carb":49.70,
+		"protein":13.46,
+		"fat":14.28	
+	}
   },
   {
     "id": "82",
-    "name": "Cinnamon",
+    "name": "Cinnamon, ground",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+	"details":{
+		"protein":3.99,
+		"fat":1.24,
+		"carb":80.59
+	}
   },
   {
     "id": "83",
     "name": "Cumin",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+	"details":{
+		"protein":17.81,
+		"fat":22.27,
+		"carb":44.24
+	}
   },
   {
     "id": "84",
     "name": "Oregano",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+	"details":{
+		"protein":9.00,
+		"fat":4.28,
+		"carb":68.92
+	}
   },
   {
     "id": "85",
-    "name": "Basil",
+    "name": "Basil, dried",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+	"details":{
+		"protein":22.98,
+		"fat":4.07,
+		"carb":47.75
+	}
   },
   {
     "id": "86",
-    "name": "Cilantro",
+    "name": "Cilantro, dried",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+	"details":{
+		"protein":21.93,
+		"fat":4.78,
+		"carb":52.10
+	}
   },
   {
     "id": "87",
-    "name": "Parsley",
+    "name": "Parsley, dried",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+	"details":{
+		"protein":22.42,
+		"fat":4.43,
+		"carb":51.66
+	}
   },
   {
     "id": "88",
-    "name": "Rosemary",
+    "name": "Rosemary, dried",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+	"details":{
+		"protein":4.88,
+		"fat":15.22,
+		"carb":64.06
+	}
   },
   {
     "id": "89",
-    "name": "Thyme",
+    "name": "Thyme, dried",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+	"details":{
+		"protein":9.11,
+		"fat":7.43,
+		"carb":63.94
+	}
   },
   {
     "id": "90",
     "name": "Mayonnaise",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+	"details":{
+		"protein":0.65,
+		"fat":21.60,
+		"carb":14.78
+	}
   },
   {
     "id": "91",
-    "name": "Sugar Free Ketchup",
-    "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "name": "Ketchup",
+    "keto": "no",
+    "category": "Condiments & Cooking Ingredients",
+	"details":{
+		"protein":1.04,
+		"fat":0.10,
+		"carb":27.40
+	}
   },
   {
     "id": "92",
-    "name": "Mustard",
+    "name": "Mustard, yellow",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+	"details":{
+		"protein":3.74,
+		"fat":3.34,
+		"carb":5.83
+	}
   },
   {
     "id": "93",
@@ -867,7 +927,12 @@
     "id": "96",
     "name": "Horseradish",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+	"details":{
+		"protein":1.18,
+		"fat":0.69,
+		"carb":11.29
+	}
   },
   {
     "id": "97",
@@ -883,9 +948,14 @@
   },
   {
     "id": "99",
-    "name": "Sucralose",
+    "name": "sucralose, SPLENDA",
     "keto": "yes",
-    "category": "Sweeteners"
+    "category": "Sweeteners",
+	"details":{
+		"protein":0.00,
+		"fat":0.00,
+		"carb":91.17
+	}
   },
   {
     "id": "100",
@@ -901,21 +971,36 @@
   },
   {
     "id": "102",
-    "name": "Bananas",
+    "name": "Bananas, raw",
     "keto": "no",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details":{
+		"protein":1.09,
+		"fat":0.33,
+		"carb":22.84
+	}
   },
   {
     "id": "103",
-    "name": "Apples",
+    "name": "Apples, raw",
     "keto": "no",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details":{
+		"protein":0.26,
+		"fat":0.17,
+		"carb":13.81
+	}
   },
   {
     "id": "104",
-    "name": "Oranges",
+    "name": "Oranges, raw",
     "keto": "no",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details":{
+		"protein":0.94,
+		"fat":0.12,
+		"carb":11.75
+	}
   },
   {
     "id": "105",
