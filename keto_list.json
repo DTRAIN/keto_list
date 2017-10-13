@@ -13,39 +13,69 @@
   },
   {
     "id": "2",
-    "name": "Beef",
+    "name": "Beef, ground, extra lean",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.0,
+      "protein":20.88,
+      "fat":7.59
+    }
   },
   {
     "id": "3",
-    "name": "Chicken",
+    "name": "Chicken breast",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.0,
+      "protein":22.50,
+      "fat":2.62
+    }
   },
   {
     "id": "4",
-    "name": "Pork",
+    "name": "Pork loin, centre cut",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.0,
+      "protein":20.71,
+      "fat":9.03
+    }
   },
   {
     "id": "5",
     "name": "Bacon",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":1.28,
+      "protein":12.62,
+      "fat":39.69
+    }
   },
   {
     "id": "6",
-    "name": "Shellfish",
+    "name": "Clams",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":3.57,
+      "protein":14.67,
+      "fat":0.96
+    }
   },
   {
     "id": "7",
     "name": "Beef tallow",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.0,
+      "protein":0.0,
+      "fat":100.0
+    }
   },
   {
     "id": "8",
