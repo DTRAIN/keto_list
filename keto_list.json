@@ -797,15 +797,25 @@
   },
   {
     "id": "106",
-    "name": "Green Beans",
+    "name": "Beans, snap (Italian, green or yellow), raw",
     "keto": "yes",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+	"details":{
+		"protein":1.83,
+		"fat":0.22,
+		"carb":6.97
+	}
   },
   {
     "id": "107",
-    "name": "Peas",
+    "name": "Peas, green, boiled, drained",
     "keto": "no",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+	"details":{
+		"protein":5.36,
+		"fat":0.22,
+		"carb":15.63
+	}
   },
   {
     "id": "108",
@@ -815,9 +825,14 @@
   },
   {
     "id": "109",
-    "name": "Parsnips",
+    "name": "Parsnip, boiled, drained",
     "keto": "no",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+	"details":{
+		"protein":1.32,
+		"fat":0.30,
+		"carb":17.01
+	}
   },
   {
     "id": "110",
@@ -857,9 +872,14 @@
   },
   {
     "id": "116",
-    "name": "Quinoa",
+    "name": "Quinoa, cooked",
     "keto": "no",
-    "category": "Grain Products"
+    "category": "Grain Products",
+	"details":{
+		"protein":4.40,
+		"fat":1.92,
+		"carb":21.30
+	}
   },
   {
     "id": "117",
@@ -875,141 +895,179 @@
   },
   {
     "id": "119",
-    "name": "Kidney beans",
+    "name": "Kidney beans, boiled",
     "keto": "no",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+	"details":{
+		"protein":8.67,
+		"fat":0.50,
+		"carb":22.80
+	}
   },
   {
     "id": "120",
-    "name": "Chickpeas",
+    "name": "Chickpeas, boiled",
     "keto": "no",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+	"details":{
+		"protein":8.86,
+		"fat":2.59,
+		"carb":27.42
+	}
   },
   {
     "id": "121",
-    "name": "Black beans",
+    "name": "Black beans, boiled",
     "keto": "no",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+	"details":{
+		"protein":8.86,
+		"fat":0.54,
+		"carb":23.71
+	}
   },
   {
     "id": "122",
-    "name": "Lentils",
+    "name": "Lentils, boiled",
     "keto": "no",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+	"details":{
+		"protein":9.02,
+		"fat":0.38,
+		"carb":20.13
+	}
   },
   {
     "id": "123",
-    "name": "Lima beans",
+    "name": "Lima beans, boiled",
     "keto": "no",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+	"details":{
+		"protein":6.81,
+		"fat":0.32,
+		"carb":23.64
+	}
   },
   {
     "id": "124",
-    "name": "Pinto beans",
+    "name": "Pinto beans, boiled",
     "keto": "no",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+	"details":{
+		"protein":9.01,
+		"fat":0.65,
+		"carb":26.22
+	}
   },
   {
     "id": "125",
-    "name": "Fava beans",
+    "name": "Broadbeans (Fava beans), boiled",
     "keto": "no",
-    "category": "Vegetables & Legumes"
-  },
-  {
-    "id": "126",
-    "name": "Bananas",
-    "keto": "no",
-    "category": "Fruit"
+    "category": "Vegetables & Legumes",
+	"details":{
+		"protein":4.80,
+		"fat":0.50,
+		"carb":10.10
+	}
   },
   {
     "id": "127",
-    "name": "Pineapples",
+    "name": "Pineapple, raw",
     "keto": "no",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details":{
+		"protein":0.54,
+		"fat":0.12,
+		"carb":13.12
+	}
   },
   {
     "id": "128",
-    "name": "Papaya",
+    "name": "Papaya, raw",
     "keto": "no",
-    "category": "Fruit"
-  },
-  {
-    "id": "129",
-    "name": "Apples",
-    "keto": "no",
-    "category": "Fruit"
-  },
-  {
-    "id": "130",
-    "name": "Oranges",
-    "keto": "no",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details":{
+		"protein":0.47,
+		"fat":0.26,
+		"carb":10.82
+	}
   },
   {
     "id": "131",
-    "name": "Grapes",
+    "name": "Grapes, raw",
     "keto": "no",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details":{
+		"protein":0.63,
+		"fat":0.35,
+		"carb":17.15
+	}
   },
   {
     "id": "132",
     "name": "Mangos",
     "keto": "no",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details":{
+		"protein":0.82,
+		"fat":0.38,
+		"carb":14.98
+	}
   },
   {
     "id": "133",
-    "name": "Tangerines",
+    "name": "Tangerine (mandarin), raw",
     "keto": "no",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details":{
+		"protein":0.81,
+		"fat":0.31,
+		"carb":13.34
+	}
   },
   {
     "id": "134",
-    "name": "Dried fruit",
+    "name": "Beer, light",
     "keto": "no",
-    "category": "Fruit"
+    "category": "Beverages",
+	"details":{
+		"protein":0.24,
+		"fat":0.00,
+		"carb":1.64
+	}
   },
   {
     "id": "135",
-    "name": "Beer",
+    "name": "Beer, regular",
     "keto": "no",
-    "category": "Beverages"
+    "category": "Beverages",
+	"details":{
+		"protein":0.46,
+		"fat":0.00,
+		"carb":3.55
+	}
   },
   {
     "id": "136",
     "name": "Wine",
     "keto": "no",
-    "category": "Beverages"
-  },
-  {
-    "id": "137",
-    "name": "Cocktails",
-    "keto": "no",
-    "category": "Beverages"
-  },
-  {
-    "id": "138",
-    "name": "Flavored liquors",
-    "keto": "no",
-    "category": "Beverages"
-  },
-  {
-    "id": "139",
-    "name": "Soda",
-    "keto": "no",
-    "category": "Beverages"
-  },
-  {
-    "id": "140",
-    "name": "Fruit juices",
-    "keto": "no",
-    "category": "Beverages"
+    "category": "Beverages",
+	"details":{
+		"protein":0.07,
+		"fat":0.00,
+		"carb":2.72
+	}
   },
   {
     "id": "141",
     "name": "Honey",
     "keto": "no",
-    "category":"Sweeteners"
+    "category":"Sweeteners",
+	"details":{
+		"protein":0.30,
+		"fat":0.00,
+		"carb":82.40
+	}
   },
   {
     "id": "142",
@@ -1021,7 +1079,12 @@
     "id": "143",
     "name": "Maple syrup",
     "keto": "no",
-    "category":"Sweeteners"
+    "category":"Sweeteners",
+	"details":{
+		"protein":0.30,
+		"fat":0.24,
+		"carb":66.89
+	}
   },
   {
     "id": "144",
@@ -1039,7 +1102,12 @@
     "id": "146",
     "name": "High-fructose corn syrup",
     "keto": "no",
-    "category":"Sweeteners"
+    "category":"Sweeteners",
+	"details":{
+		"protein":0.00,
+		"fat":0.00,
+		"carb":76.00
+	}
   },
   {
     "id": "147",
