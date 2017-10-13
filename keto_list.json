@@ -453,13 +453,23 @@
     "id": "70",
     "name": "Blue Cheese",
     "keto": "yes",
-    "category": "Dairy"
+    "category": "Dairy",
+	"details":{
+		"carb":2.34,
+		"protein":21.40,
+		"fat":28.74
+	}
   },
   {
     "id": "71",
     "name": "Colby Cheese",
     "keto": "yes",
-    "category": "Dairy"
+    "category": "Dairy",
+	"details":{
+		"carb":2.57,
+		"protein":23.76,
+		"fat":32.11
+	}
   },
   {
     "id": "72",
@@ -469,39 +479,69 @@
   },
   {
     "id": "73",
-    "name": "Aged Cheddar Cheese",
+    "name": "Cheddar Cheese",
     "keto": "yes",
-    "category": "Dairy"
+    "category": "Dairy",
+	"details":{
+		"carb":1.33,
+		"protein":24.04,
+		"fat":33.82
+	}
   },
   {
     "id": "74",
-    "name": "Parmesan Cheese",
+    "name": "Parmesan Cheese, dry grated",
     "keto": "yes",
-    "category": "Dairy"
+    "category": "Dairy",
+	"details":{
+		"carb":13.91,
+		"protein":28.42,
+		"fat":27.84
+	}
   },
   {
     "id": "75",
     "name": "Feta Cheese",
     "keto": "yes",
-    "category": "Dairy"
+    "category": "Dairy",
+	"details":{
+		"carb":4.09,
+		"protein":14.21,
+		"fat":21.28
+	}
   },
   {
     "id": "76",
-    "name": "Swiss Cheese",
+    "name": "Swiss Cheese (emmental)",
     "keto": "yes",
-    "category": "Dairy"
+    "category": "Dairy",
+	"details":{
+		"carb":5.38,
+		"protein":26.93,
+		"fat":27.80
+	}
   },
   {
     "id": "77",
-    "name": "Hazelnuts",
+    "name": "Hazelnuts, dried",
     "keto": "yes",
-    "category": "Nuts & Seeds"
+    "category": "Nuts & Seeds",
+	"details":{
+		"carb":16.70,
+		"protein":14.95,
+		"fat":60.75	
+	}
   },
   {
     "id": "78",
-    "name": "Coconut Milk",
+    "name": "Coconut Milk, canned",
     "keto": "yes",
-    "category": "Beverages"
+    "category": "Beverages",
+	"details":{
+		"carb":2.81,
+		"protein":2.02,
+		"fat":21.33	
+	}
   },
   {
     "id": "79",
@@ -513,7 +553,12 @@
     "id": "80",
     "name": "Cayenne Pepper",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+	"details":{
+		"carb":56.63,
+		"protein":12.01,
+		"fat":17.27	
+	}
   },
   {
     "id": "81",
