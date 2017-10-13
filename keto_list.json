@@ -81,115 +81,188 @@
     "id": "8",
     "name": "Butter",
     "keto": "yes",
-    "category": "Dairy"
+    "category": "Dairy",
+    "details":{
+      "carb":0.06,
+      "protein":0.85,
+      "fat":81.1
+    }
   },
   {
     "id": "9",
     "name": "Macademia nuts",
     "keto": "yes",
-    "category": "Nuts & Seeds"
+    "category": "Nuts & Seeds",
+    "details":{
+      "carb":13.82,
+      "protein":7.91,
+      "fat":75.77
+    }
   },
   {
     "id": "10",
     "name": "Chicken fat",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.0,
+      "protein":0.0,
+      "fat":99.80
+    }
   },
   {
     "id": "11",
     "name": "Olive oil",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+    "details":{
+      "carb":0.0,
+      "protein":0.0,
+      "fat":100.0
+    }
   },
   {
     "id": "12",
     "name": "Avocado",
     "keto": "yes",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details":{
+      "carb":8.53,
+      "protein":2.0,
+      "fat":14.66
+    }
   },
   {
     "id": "13",
     "name": "Peanut Butter",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+    "details":{
+      "carb":21.51,
+      "protein":23.68,
+      "fat":49.66
+    }
   },
   {
     "id": "14",
     "name": "Asparagus",
     "keto": "yes",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":3.88,
+      "protein":2.20,
+      "fat":0.12
+    }
   },
   {
     "id": "15",
     "name": "Broccoli",
     "keto": "yes",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":5.24,
+      "protein":2.98,
+      "fat":0.35
+    }
   },
   {
     "id": "16",
     "name": "Celery",
     "keto": "yes",
-    "category": "Vegetables & Legumes"
-  },
-  {
-    "id": "17",
-    "name": "Celery",
-    "keto": "yes",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":2.97,
+      "protein":0.69,
+      "fat":0.17
+    }
   },
   {
     "id": "18",
     "name": "Garlic",
     "keto": "yes",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":33.06,
+      "protein":6.36,
+      "fat":0.5
+    }
   },
   {
     "id": "19",
     "name": "Onions",
     "keto": "yes",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":9.34,
+      "protein":1.10,
+      "fat":0.10
+    }
   },
   {
     "id": "20",
-    "name": "Mushrooms",
+    "name": "Mushrooms, white",
     "keto": "yes",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":3.28,
+      "protein":3.09,
+      "fat":0.34
+    }
   },
   {
     "id": "21",
     "name": "Romaine Lettuce",
     "keto": "yes",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":3.29,
+      "protein":1.23,
+      "fat":0.30
+    }
   },
   {
     "id": "22",
     "name": "Heavy whipping cream",
     "keto": "yes",
-    "category": "Dairy"
-  },
-  {
-    "id": "23",
-    "name": "Cheeses (both hard and soft)",
-    "keto": "yes",
-    "category": "Dairy"
+    "category": "Dairy",
+    "details":{
+      "carb":2.85,
+      "protein":2.09,
+      "fat":35.0
+    }
   },
   {
     "id": "24",
     "name": "Sour Cream",
     "keto": "yes",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":4.27,
+      "protein":3.09,
+      "fat":18.0
+    }
   },
   {
     "id": "25",
     "name": "Walnuts",
     "keto": "yes",
-    "category": "Nuts & Seeds"
+    "category": "Nuts & Seeds",
+    "details":{
+      "carb":9.58,
+      "protein":24.06,
+      "fat":59.33
+    }
   },
   {
     "id": "26",
     "name": "Almonds",
     "keto": "yes",
-    "category": "Nuts & Seeds"
+    "category": "Nuts & Seeds",
+    "details":{
+      "carb":21.55,
+      "protein":21.15,
+      "fat":49.93
+    }
   },
   {
     "id": "27",
@@ -201,25 +274,45 @@
     "id": "28",
     "name": "Sunflower seeds",
     "keto": "yes",
-    "category": "Nuts & Seeds"
+    "category": "Nuts & Seeds",
+    "details":{
+      "carb":20.0,
+      "protein":20.78,
+      "fat":51.46
+    }
   },
   {
     "id": "29",
     "name": "Water",
     "keto": "yes",
-    "category": "Beverages"
+    "category": "Beverages",
+    "details":{
+      "carb":0.0,
+      "protein":0.0,
+      "fat":0.0
+    }
   },
   {
     "id": "30",
     "name": "Coffee (black)",
     "keto": "yes",
-    "category": "Beverages"
+    "category": "Beverages",
+    "details":{
+      "carb":0.0,
+      "protein":0.12,
+      "fat":0.02
+    }
   },
   {
     "id": "31",
     "name": "Tea (Without milk & sugar)",
     "keto": "yes",
-    "category": "Beverages"
+    "category": "Beverages",
+    "details":{
+      "carb":0.30,
+      "protein":0.0,
+      "fat":0.0
+    }
   },
   {
     "id": "32",
@@ -231,121 +324,177 @@
     "id": "33",
     "name": "Coconut Butter",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+    "details":{
+      "carb":0.0,
+      "protein":0.0,
+      "fat":100.0
+    }
   },
   {
     "id": "34",
     "name": "Cocoa Butter",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+    "details":{
+      "carb":0.0,
+      "protein":0.0,
+      "fat":100.0
+    }
   },
   {
     "id": "35",
     "name": "Coconut Oil",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+    "details":{
+      "carb":0.0,
+      "protein":0.0,
+      "fat":100.0
+    }
   },
   {
     "id": "36",
     "name": "Avocado Oil",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+    "details":{
+      "carb":0.0,
+      "protein":0.0,
+      "fat":100.0
+    }
   },
   {
     "id": "37",
     "name": "Macadamia Oil",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+    "details":{
+      "carb":0.0,
+      "protein":0.0,
+      "fat":100.0
+    }
   },
   {
     "id": "38",
     "name": "MCT Oil",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+    "details":{
+      "carb":0.0,
+      "protein":0.0,
+      "fat":100.0
+    }
   },
   {
     "id": "39",
     "name": "Lard",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
-  },
-  {
-    "id": "40",
-    "name": "Clams",
-    "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Condiments & Cooking Ingredients",
+    "details":{
+      "carb":0.0,
+      "protein":0.0,
+      "fat":100.0
+    }
   },
   {
     "id": "41",
     "name": "Oysters",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":5.53,
+      "protein":5.22,
+      "fat":1.55
+    }
   },
   {
     "id": "42",
     "name": "Lobster",
     "keto": "yes",
-    "category": "Meat & Substitutes"
-  },
-  {
-    "id": "43",
-    "name": "Clams",
-    "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.00,
+      "protein":16.52,
+      "fat":0.75
+    }
   },
   {
     "id": "44",
     "name": "Crab",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.74,
+      "protein":17.41,
+      "fat":0.97
+    }
   },
   {
     "id": "45",
     "name": "Scallops",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":3.18,
+      "protein":12.06,
+      "fat":0.49
+    }
   },
   {
     "id": "46",
     "name": "Mussels",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":3.69,
+      "protein":11.90,
+      "fat":2.24
+    }
   },
   {
     "id": "47",
     "name": "squid",
     "keto": "yes",
-    "category": "Meat & Substitutes"
-  },
-  {
-    "id": "48",
-    "name": "squid",
-    "keto": "yes",
-    "category": "Meat & Substitutes"
-  },
-  {
-    "id": "49",
-    "name": "Ground beef",
-    "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":3.08,
+      "protein":15.58,
+      "fat":1.38
+    }
   },
   {
     "id": "50",
-    "name": "Steak",
+    "name": "Steak, sirloin",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.0,
+      "protein":21.40,
+      "fat":8.50
+    }
   },
   {
     "id": "51",
     "name": "Beef Roast",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.0,
+      "protein":19.40,
+      "fat":12.04
+    }
   },
   {
     "id": "52",
-    "name": "Duck",
+    "name": "Duck, meat only",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.0,
+      "protein":18.28,
+      "fat":5.95
+    }
   },
   {
     "id": "53",
@@ -357,7 +506,12 @@
     "id": "54",
     "name": "pheasant",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.0,
+      "protein":22.70,
+      "fat":9.29
+    }
   },
   {
     "id": "55",
@@ -369,85 +523,144 @@
     "id": "56",
     "name": "Pork loin",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.0,
+      "protein":22.05,
+      "fat":8.60
+    }
   },
   {
     "id": "57",
     "name": "Pork chops",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.0,
+      "protein":20.48,
+      "fat":8.96
+    }
   },
   {
     "id": "58",
     "name": "Tenderloin",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.0,
+      "protein":22.10,
+      "fat":3.50
+    }
   },
   {
     "id": "59",
     "name": "Ham (Cured without use of sugar)",
     "keto": "yes",
-    "category": "Meat & Substitutes"
-  },
-  {
-    "id": "60",
-    "name": "Bacon",
-    "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":3.25,
+      "protein":18.03,
+      "fat":3.25
+    }
   },
   {
     "id": "61",
-    "name": "Sausage",
+    "name": "Sausage, breakfast links, pork",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":11.01,
+      "protein":15.14,
+      "fat":21.20
+    }
   },
   {
     "id": "62",
     "name": "Cabbage",
     "keto": "yes",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":5.80,
+      "protein":1.28,
+      "fat":0.10
+    }
   },
   {
     "id": "63",
     "name": "Cauliflower",
     "keto": "yes",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":4.97,
+      "protein":1.92,
+      "fat":0.28
+    }
   },
   {
     "id": "64",
     "name": "Spinach",
     "keto": "yes",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":3.63,
+      "protein":2.86,
+      "fat":0.39
+    }
   },
   {
     "id": "65",
     "name": "Green Bell Pepper",
     "keto": "yes",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":4.64,
+      "protein":0.86,
+      "fat":0.17
+    }
   },
   {
     "id": "66",
-    "name": "Greek Yogurt",
+    "name": "Greek Yogurt / yoghurt / yogourt",
     "keto": "yes",
-    "category": "Dairy"
+    "category": "Dairy",
+    "details":{
+      "carb":10.63,
+      "protein":6.60,
+      "fat":11.72
+    }
   },
   {
     "id": "67",
     "name": "Cream Cheese",
     "keto": "yes",
-    "category": "Dairy"
+    "category": "Dairy",
+    "details":{
+      "carb":4.07,
+      "protein":0.0,
+      "fat":34.24
+    }
   },
   {
     "id": "68",
     "name": "Mozarella Cheese",
     "keto": "yes",
-    "category": "Dairy"
+    "category": "Dairy",
+    "details":{
+      "carb":2.47,
+      "protein":5.93,
+      "fat":24.64
+    }
   },
   {
     "id": "69",
     "name": "Brie Cheese",
     "keto": "yes",
-    "category": "Dairy"
+    "category": "Dairy",
+    "details":{
+      "carb":0.45,
+      "protein":20.75,
+      "fat":27.68
+    }
   },
   {
     "id": "70",
