@@ -6,7 +6,7 @@
     "keto": "yes",
     "category": "Meat & Substitutes",
     "details":{
-      "carb":1
+      "carb":1,
       "protein":1,
       "fat":1
     }
