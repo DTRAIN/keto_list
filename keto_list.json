@@ -1440,18 +1440,55 @@
     "id": "147",
     "name": "Cane sugar",
     "keto": "no",
-    "category":"Sweeteners"
+    "category":"Sweeteners",
+	"details":{
+		"protein":0.00,
+		"fat":0.00,
+		"carb":100.00
+	}
   },
   {
     "id": "148",
     "name": "White sugar",
     "keto": "no",
-    "category":"Sweeteners"
+    "category":"Sweeteners",
+	"details":{
+		"protein":0.00,
+		"fat":0.00,
+		"carb":100.00
+	}
   },
   {
     "id": "149",
     "name": "Milk (2%, skim, whole)",
     "keto": "no",
-    "category":"Dairy"
+    "category":"Dairy",
+	"details":{
+		"protein":4.04,
+		"fat":2.02,
+		"carb":11.72
+	}
+  },
+  {
+    "id": "150",
+    "name": "Eggs",
+    "keto": "yes",
+    "category":"Dairy",
+	"details":{
+		"protein":12.56,
+		"fat":9.51,
+		"carb":0.72
+	}
+  },
+  {
+    "id": "151",
+    "name": "Peanuts",
+    "keto": "no",
+    "category":"Nuts & Seeds",
+	"details":{
+		"protein":25.80,
+		"fat":49.24,
+		"carb":16.13
+	}
   }
 ]
