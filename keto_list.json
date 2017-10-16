@@ -2,13 +2,13 @@
 [
   {
     "id": "1",
-    "name": "Fish",
+    "name": "Fish, Salmon",
     "keto": "yes",
     "category": "Meat & Substitutes",
     "details":{
-      "carb":1,
-      "protein":1,
-      "fat":1
+      "carb":0.00,
+      "protein":19.93,
+      "fat":10.43
     }
   },
   {
@@ -266,9 +266,14 @@
   },
   {
     "id": "27",
-    "name": "Seed Based Flours",
+    "name": "Almond Flour",
     "keto": "yes",
-    "category": "Nuts & Seeds"
+    "category": "Nuts & Seeds",
+    "details":{
+      "carb":24.00,
+      "protein":24.00,
+      "fat":44.00
+    }
   },
   {
     "id": "28",
@@ -313,12 +318,6 @@
       "protein":0.0,
       "fat":0.0
     }
-  },
-  {
-    "id": "32",
-    "name": "Sugar free flavor packets",
-    "keto": "yes",
-    "category": "Beverages"
   },
   {
     "id": "33",
@@ -500,7 +499,12 @@
     "id": "53",
     "name": "Quail",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.00,
+      "protein":19.63,
+      "fat":12.05
+    }
   },
   {
     "id": "54",
@@ -517,7 +521,12 @@
     "id": "55",
     "name": "Ground pork",
     "keto": "yes",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details":{
+      "carb":0.00,
+      "protein":14.29,
+      "fat":22.32
+    }
   },
   {
     "id": "56",
@@ -688,7 +697,12 @@
     "id": "72",
     "name": "Monterey Jack Cheese",
     "keto": "yes",
-    "category": "Dairy"
+    "category": "Dairy",
+    "details":{
+      "carb":0.00,
+      "protein":23.81,
+      "fat":28.57
+    }
   },
   {
     "id": "73",
@@ -759,8 +773,13 @@
   {
     "id": "79",
     "name": "Almond Milk",
-    "keto": "yes",
-    "category": "Beverages"
+    "keto": "no",
+    "category": "Beverages",
+    "details":{
+      "carb":12.94,
+      "protein":3.53,
+      "fat":2.35
+    }
   },
   {
     "id": "80",
@@ -915,13 +934,23 @@
     "id": "94",
     "name": "Sauerkraut (Low, or no sugar added)",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+    "details":{
+      "carb":3.33,
+      "protein":0.00,
+      "fat":0.00
+    }
   },
   {
     "id": "95",
-    "name": "Relish (low, or no sugar added)",
-    "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "name": "Relish",
+    "keto": "no",
+    "category": "Condiments & Cooking Ingredients",
+    "details":{
+      "carb":23.35,
+      "protein":1.50,
+      "fat":0.46
+    }
   },
   {
     "id": "96",
@@ -936,15 +965,25 @@
   },
   {
     "id": "97",
-    "name": "Salad Dressings (ranch, caesar, unsweetened vinaigrettes, etc)",
+    "name": "Salad Dressing, ranch",
     "keto": "yes",
-    "category": "Condiments & Cooking Ingredients"
+    "category": "Condiments & Cooking Ingredients",
+    "details":{
+      "carb":5.90,
+      "protein":1.32,
+      "fat":44.54
+    }
   },
   {
     "id": "98",
     "name": "Stevia",
     "keto": "yes",
-    "category": "Sweeteners"
+    "category": "Sweeteners",
+    "details":{
+      "carb":100.00,
+      "protein":0.00,
+      "fat":0.00
+    }
   },
   {
     "id": "99",
@@ -961,13 +1000,23 @@
     "id": "100",
     "name": "Erythritol",
     "keto": "yes",
-    "category": "Sweeteners"
+    "category": "Sweeteners",
+    "details":{
+      "carb":100.00,
+      "protein":0.00,
+      "fat":0.00
+    }
   },
   {
     "id": "101",
     "name": "Potatoes",
     "keto": "no",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":17.49,
+      "protein":2.05,
+      "fat":0.09
+    }
   },
   {
     "id": "102",
@@ -1006,7 +1055,12 @@
     "id": "105",
     "name": "Yams / Sweet Potatoes",
     "keto": "no",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":27.88,
+      "protein":1.53,
+      "fat":0.17
+    }
   },
   {
     "id": "106",
@@ -1034,7 +1088,12 @@
     "id": "108",
     "name": "Corn",
     "keto": "no",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":18.70,
+      "protein":3.27,
+      "fat":1.35
+    }
   },
   {
     "id": "109",
@@ -1051,37 +1110,67 @@
     "id": "110",
     "name": "Beans",
     "keto": "no",
-    "category": "Vegetables & Legumes"
+    "category": "Vegetables & Legumes",
+    "details":{
+      "carb":20.49,
+      "protein":4.80,
+      "fat":0.40
+    }
   },
   {
     "id": "111",
     "name": "Wheat",
     "keto": "no",
-    "category": "Grain Products"
+    "category": "Grain Products",
+    "details":{
+      "carb":75.90,
+      "protein":11.31,
+      "fat":1.71
+    }
   },
   {
     "id": "112",
     "name": "Barley",
     "keto": "no",
-    "category": "Grain Products"
+    "category": "Grain Products",
+    "details":{
+      "carb":73.48,
+      "protein":12.48,
+      "fat":2.30
+    }
   },
   {
     "id": "113",
     "name": "Oats",
     "keto": "no",
-    "category": "Grain Products"
+    "category": "Grain Products",
+    "details":{
+      "carb":66.27,
+      "protein":16.89,
+      "fat":6.90
+    }
   },
   {
     "id": "114",
     "name": "Rice",
     "keto": "no",
-    "category": "Grain Products"
+    "category": "Grain Products",
+    "details":{
+      "carb":81.68,
+      "protein":6.81,
+      "fat":0.55
+    }
   },
   {
     "id": "115",
     "name": "Rye",
     "keto": "no",
-    "category": "Grain Products"
+    "category": "Grain Products",
+    "details":{
+      "carb":69.76,
+      "protein":14.76,
+      "fat":2.50
+    }
   },
   {
     "id": "116",
@@ -1098,13 +1187,23 @@
     "id": "117",
     "name": "Millet",
     "keto": "no",
-    "category": "Grain Products"
+    "category": "Grain Products",
+    "details":{
+      "carb":72.85,
+      "protein":11.02,
+      "fat":4.22
+    }
   },
   {
     "id": "118",
     "name": "Buckwheat",
     "keto": "no",
-    "category": "Grain Products"
+    "category": "Grain Products",
+    "details":{
+      "carb":71.50,
+      "protein":13.25,
+      "fat":3.40
+    }
   },
   {
     "id": "119",
@@ -1286,7 +1385,12 @@
     "id": "142",
     "name": "Agave nectar",
     "keto": "no",
-    "category":"Sweeteners"
+    "category":"Sweeteners",
+    "details":{
+      "carb":21.55,
+      "protein":21.15,
+      "fat":49.93
+    }
   },
   {
     "id": "143",
@@ -1294,22 +1398,32 @@
     "keto": "no",
     "category":"Sweeteners",
 	"details":{
-		"protein":0.30,
-		"fat":0.24,
-		"carb":66.89
+		"protein":0.09,
+		"fat":0.45,
+		"carb":76.37
 	}
   },
   {
     "id": "144",
     "name": "Raw sugar",
     "keto": "no",
-    "category":"Sweeteners"
+    "category":"Sweeteners",
+    "details":{
+      "carb":84.77,
+      "protein":2.06,
+      "fat":0.00
+    }
   },
   {
     "id": "145",
     "name": "Turbinado sugar",
     "keto": "no",
-    "category":"Sweeteners"
+    "category":"Sweeteners",
+    "details":{
+      "carb":99.80,
+      "protein":0.00,
+      "fat":0.00
+    }
   },
   {
     "id": "146",
