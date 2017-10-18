@@ -1693,7 +1693,7 @@
     "id": "170",
     "name": "Grapefruit",
     "keto": "no",
-    "category":"fruit",
+    "category":"Fruit",
 	"details":{
 		"protein":0.77,
 		"fat":0.14,
@@ -1748,7 +1748,7 @@
     "id": "175",
     "name": "Kiwi",
     "keto": "no",
-    "category":"Fruits",
+    "category":"Fruit",
 	"details":{
 		"protein":1.14,
 		"fat":0.52,
@@ -1759,7 +1759,7 @@
     "id": "176",
     "name": "Peach",
     "keto": "no",
-    "category":"Fruits",
+    "category":"Fruit",
 	"details":{
 		"protein":0.91,
 		"fat":0.25,
