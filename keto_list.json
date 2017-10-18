@@ -1600,5 +1600,192 @@
 		"fat":0.14,
 		"carb":10.53
 	}
+  },
+  {
+    "id": "162",
+    "name": "Diet soda",
+    "keto": "yes",
+    "category":"Beverages",
+	"details":{
+		"protein":0.00,
+		"fat":0.00,
+		"carb":0.00
+	}
+  },
+  {
+    "id": "163",
+    "name": "Popcorn",
+    "keto": "no",
+    "category":"Nuts & Seeds",
+	"details":{
+		"protein":12.94,
+		"fat":4.54,
+		"carb":77.78
+	}
+  },
+  {
+    "id": "164",
+    "name": "Pumpkin",
+    "keto": "yes",
+    "category":"Vegetables & Legumes",
+	"details":{
+		"protein":1.00,
+		"fat":0.10,
+		"carb":6.50
+	}
+  },
+  {
+    "id": "165",
+    "name": "Spaghetti squash",
+    "keto": "yes",
+    "category":"Vegetables & Legumes",
+	"details":{
+		"protein":0.64,
+		"fat":0.57,
+		"carb":6.91
+	}
+  },
+  {
+    "id": "166",
+    "name": "Brazil nuts",
+    "keto": "yes",
+    "category":"Nuts & Seeds",
+	"details":{
+		"protein":14.32,
+		"fat":67.10,
+		"carb":11.74
+	}
+  },
+  {
+    "id": "167",
+    "name": "Brussel Sprouts",
+    "keto": "yes",
+    "category":"Vegetables & Legumes",
+	"details":{
+		"protein":3.38,
+		"fat":0.30,
+		"carb":8.95
+	}
+  },
+  {
+    "id": "168",
+    "name": "Cucumber",
+    "keto": "yes",
+    "category":"Vegetables & Legumes",
+	"details":{
+		"protein":0.65,
+		"fat":0.11,
+		"carb":3.63
+	}
+  },
+  {
+    "id": "169",
+    "name": "Cheese, Gouda",
+    "keto": "yes",
+    "category":"Dairy",
+	"details":{
+		"protein":24.94,
+		"fat":28.00,
+		"carb":2.22
+	}
+  },
+  {
+    "id": "170",
+    "name": "Grapefruit",
+    "keto": "no",
+    "category":"fruit",
+	"details":{
+		"protein":0.77,
+		"fat":0.14,
+		"carb":10.66
+	}
+  },
+  {
+    "id": "171",
+    "name": "Half and Half (coffee creamer)",
+    "keto": "yes",
+    "category":"Dairy",
+	"details":{
+		"protein":2.99,
+		"fat":10.00,
+		"carb":4.42
+	}
+  },
+  {
+    "id": "172",
+    "name": "Hummus / Hummous",
+    "keto": "no",
+    "category":"Vegetables & Legumes",
+	"details":{
+		"protein":7.90,
+		"fat":9.60,
+		"carb":14.29
+	}
+  },
+  {
+    "id": "173",
+    "name": "Ice cream",
+    "keto": "no",
+    "category":"Dairy",
+	"details":{
+		"protein":3.50,
+		"fat":11.00,
+		"carb":23.60
+	}
+  },
+  {
+    "id": "174",
+    "name": "Kefir, plain",
+    "keto": "yes",
+    "category":"Dairy",
+	"details":{
+		"protein":3.50,
+		"fat":3.60,
+		"carb":4.25
+	}
+  },
+  {
+    "id": "175",
+    "name": "Kiwi",
+    "keto": "no",
+    "category":"Fruits",
+	"details":{
+		"protein":1.14,
+		"fat":0.52,
+		"carb":14.66
+	}
+  },
+  {
+    "id": "176",
+    "name": "Peach",
+    "keto": "no",
+    "category":"Fruits",
+	"details":{
+		"protein":0.91,
+		"fat":0.25,
+		"carb":9.54
+	}
+  },
+  {
+    "id": "177",
+    "name": "Pistachio",
+    "keto": "no",
+    "category":"Nuts & Seeds",
+	"details":{
+		"protein":20.27,
+		"fat":45.39,
+		"carb":27.51
+	}
+  },
+  {
+    "id": "178",
+    "name": "Soy Sauce (Tamari)",
+    "keto": "yes",
+    "category":"Condiments & Cooking Ingredients",
+	"details":{
+		"protein":10.51,
+		"fat":0.10,
+		"carb":5.57
+	}
   }
 ]
