@@ -1787,5 +1787,93 @@
 		"fat":0.10,
 		"carb":5.57
 	}
+  },
+  {
+    "id": "179",
+    "name": "Tofu",
+    "keto": "yes",
+    "category": "Meat & Substitutes",
+	"details":{
+		"protein":8.08,
+		"fat":4.78,
+		"carb":1.88
+	}
+  },
+  {
+    "id": "180",
+    "name": "Tortilla, corn",
+    "keto": "no",
+    "category": "Grain Products",
+	"details":{
+		"protein":5.70,
+		"fat":2.85,
+		"carb":44.64
+	}
+  },
+  {
+    "id": "181",
+    "name": "Tortilla, flour",
+    "keto": "no",
+    "category": "Grain Products",
+	"details":{
+		"protein":8.70,
+		"fat":7.10,
+		"carb":55.60
+	}
+  },
+  {
+    "id": "182",
+    "name": "Tuna, white, canned with water",
+    "keto": "yes",
+    "category": "Meat & Substitutes",
+	"details":{
+		"protein":23.62,
+		"fat":2.97,
+		"carb":0.00
+	}
+  },
+  {
+    "id": "183",
+    "name": "Tuna, white, canned with oil",
+    "keto": "yes",
+    "category": "Meat & Substitutes",
+	"details":{
+		"protein":26.53,
+		"fat":8.08,
+		"carb":0.00
+	}
+  },
+  {
+    "id": "184",
+    "name": "Turkey",
+    "keto": "yes",
+    "category": "Meat & Substitutes",
+	"details":{
+		"protein":22.83,
+		"fat":3.48,
+		"carb":0.00
+	}
+  },
+  {
+    "id": "185",
+    "name": "Vodka",
+    "keto": "yes",
+    "category":"Beverages",
+	"details":{
+		"protein":0.00,
+		"fat":0.00,
+		"carb":0.00
+	}
+  },
+  {
+    "id": "186",
+    "name": "Eggplant (aubergine, brinjal)",
+    "keto": "yes",
+    "category":"Vegetables & Legumes",
+	"details":{
+		"protein":0.98,
+		"fat":0.18,
+		"carb":5.88
+	}
   }
 ]
