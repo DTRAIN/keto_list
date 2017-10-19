@@ -1875,5 +1875,104 @@
 		"fat":0.18,
 		"carb":5.88
 	}
-  }
+  },
+  {
+    "id": "187",
+    "name": "Balsamic Vinegar",
+    "keto": "no",
+    "category":"Condiments & Cooking Ingredients",
+	"details":{
+		"protein":0.49,
+		"fat":0.00,
+		"carb":17.03
+	}
+  },
+	{
+		"id": "188",
+		"name": "Beets, boiled",
+		"keto": "no",
+		"category":"Vegetables & Legumes",
+		"details":{
+			"protein":1.68,
+			"fat":0.18,
+			"carb":9.96
+		}
+	},
+	{
+		"id": "189",
+		"name": "Olive, pickled",
+		"keto": "yes",
+		"category":"Vegetables & Legumes",
+		"details":{
+			"protein":1.03,
+			"fat":15.32,
+			"carb":3.84
+		}
+	},
+	{
+		"id": "190",
+		"name": "Olive, ripe, canned",
+		"keto": "yes",
+		"category":"Vegetables & Legumes",
+		"details":{
+			"protein":0.84,
+			"fat":10.68,
+			"carb":6.26
+		}
+	},
+	{
+		"id": "191",
+		"name": "Bratwurst, pork",
+		"keto": "yes",
+		"category": "Meat & Substitutes",
+		"details":{
+			"protein":17.88,
+			"fat":23.30,
+			"carb":7.07
+		}
+	},
+	{
+		"id": "192",
+		"name": "Ginger root",
+		"keto": "no",
+		"category":"Condiments & Cooking Ingredients",
+		"details":{
+			"protein":1.82,
+			"fat":0.75,
+			"carb":17.77
+		}
+	},
+	{
+		"id": "193",
+		"name": "Goat cheese, soft",
+		"keto": "yes",
+		"category": "Dairy",
+		"details":{
+			"protein":18.52,
+			"fat":21.08,
+			"carb":0.00
+		}
+	},
+	{
+		"id": "194",
+		"name": "Goat cheese, semi-soft",
+		"keto": "yes",
+		"category": "Dairy",
+		"details":{
+			"protein":21.58,
+			"fat":29.84,
+			"carb":0.00
+		}
+	},
+	{
+		"id": "195",
+		"name": "Goat cheese, hard",
+		"keto": "yes",
+		"category": "Dairy",
+		"details":{
+			"protein":30.52,
+			"fat":35.59,
+			"carb":2.17
+		}
+	}
 ]
