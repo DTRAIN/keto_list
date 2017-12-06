@@ -40,8 +40,9 @@
     "name": "Pork loin, centre cut",
     "keto": "yes",
     "category": "Meat & Substitutes",
+    "code":{"type":"FNC", "id":1781},
     "details":{
-	"fibre":0.00,
+      "fibre":0.00,
       "carb":0.0,
       "protein":20.71,
       "fat":9.03
@@ -633,13 +634,15 @@
   },
   {
     "id": "58",
-    "name": "Tenderloin",
+    "name": "Beef Tenderloin",
     "keto": "yes",
     "category": "Meat & Substitutes",
+    "code":{"type":"FNC", "id":6129},
     "details":{
+      "protein":21.19,
+      "fat":7.87,
       "carb":0.0,
-      "protein":22.10,
-      "fat":3.50
+      "fibre":0.00
     }
   },
   {
@@ -1163,7 +1166,6 @@
     "name": "Erythritol",
     "keto": "yes",
     "category": "Sweeteners",
-    "code":{"type":"UPC", "id":"843076000051"},
     "details":{
       "carb":100.00,
       "protein":0.00,
@@ -1176,7 +1178,6 @@
     "name": "Potatoes",
     "keto": "no",
     "category": "Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"2505"},
     "details":{
       "carb":17.49,
       "protein":2.05,
@@ -1189,7 +1190,6 @@
     "name": "Bananas, raw",
     "keto": "no",
     "category": "Fruit",
-    "code":{"type":"FNC", "id":"1704"},
 	"details":{
 		"protein":1.09,
 		"fat":0.33,
@@ -1202,7 +1202,6 @@
     "name": "Apples, raw",
     "keto": "no",
     "category": "Fruit",
-    "code":{"type":"FNC", "id":"1696"},
 	"details":{
 		"protein":0.26,
 		"fat":0.17,
@@ -1215,7 +1214,6 @@
     "name": "Oranges, raw",
     "keto": "no",
     "category": "Fruit",
-    "code":{"type":"FNC", "id":"1722"},
 	"details":{
 		"protein":0.94,
 		"fat":0.12,
@@ -1228,7 +1226,6 @@
     "name": "Yams / Sweet Potatoes",
     "keto": "no",
     "category": "Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"2283"},
     "details":{
       "carb":27.88,
       "protein":1.53,
@@ -1241,7 +1238,6 @@
     "name": "Beans, snap (Italian, green or yellow), raw",
     "keto": "yes",
     "category": "Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"2370"},
 	"details":{
 		"protein":1.83,
 		"fat":0.22,
@@ -1254,7 +1250,6 @@
     "name": "Peas, green, boiled, drained",
     "keto": "no",
     "category": "Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"2410"},
 	"details":{
 		"protein":5.36,
 		"fat":0.22,
@@ -1267,7 +1262,6 @@
     "name": "Corn",
     "keto": "no",
     "category": "Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"2388"},
     "details":{
       "carb":18.70,
       "protein":3.27,
@@ -1280,7 +1274,6 @@
     "name": "Parsnip, boiled, drained",
     "keto": "no",
     "category": "Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"2407"},
 	"details":{
 		"protein":1.32,
 		"fat":0.30,
@@ -1293,7 +1286,6 @@
     "name": "Beans",
     "keto": "no",
     "category": "Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"5609"},
     "details":{
       "carb":20.49,
       "protein":4.80,
@@ -1306,7 +1298,6 @@
     "name": "Wheat",
     "keto": "no",
     "category": "Grain Products",
-    "code":{"type":"FNC", "id":"4439"},
     "details":{
       "carb":75.90,
       "protein":11.31,
@@ -1319,7 +1310,6 @@
     "name": "Barley",
     "keto": "no",
     "category": "Grain Products",
-    "code":{"type":"FNC", "id":"4485"},
     "details":{
       "carb":73.48,
       "protein":12.48,
@@ -1332,7 +1322,6 @@
     "name": "Oats",
     "keto": "no",
     "category": "Grain Products",
-    "code":{"type":"FNC", "id":"4421"},
     "details":{
       "carb":66.27,
       "protein":16.89,
@@ -1345,7 +1334,6 @@
     "name": "Rice",
     "keto": "no",
     "category": "Grain Products",
-    "code":{"type":"FNC", "id":"4424"},
     "details":{
       "carb":81.68,
       "protein":6.81,
@@ -1358,7 +1346,6 @@
     "name": "Rye",
     "keto": "no",
     "category": "Grain Products",
-    "code":{"type":"FNC", "id":"4498"},
     "details":{
       "carb":69.76,
       "protein":14.76,
@@ -1371,7 +1358,6 @@
     "name": "Quinoa, cooked",
     "keto": "no",
     "category": "Grain Products",
-    "code":{"type":"FNC", "id":"5917"},
 	"details":{
 		"protein":4.40,
 		"fat":1.92,
@@ -1384,7 +1370,6 @@
     "name": "Millet",
     "keto": "no",
     "category": "Grain Products",
-    "code":{"type":"FNC", "id":"4491"},
     "details":{
       "carb":72.85,
       "protein":11.02,
@@ -1397,7 +1382,6 @@
     "name": "Buckwheat",
     "keto": "no",
     "category": "Grain Products",
-    "code":{"type":"FNC", "id":"4487"},
     "details":{
       "carb":71.50,
       "protein":13.25,
@@ -1410,7 +1394,6 @@
     "name": "Kidney beans, boiled",
     "keto": "no",
     "category": "Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"6366"},
 	"details":{
 		"protein":8.67,
 		"fat":0.50,
@@ -1423,7 +1406,6 @@
     "name": "Chickpeas, boiled",
     "keto": "no",
     "category": "Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"3390"},
 	"details":{
 		"protein":8.86,
 		"fat":2.59,
@@ -1436,7 +1418,6 @@
     "name": "Black beans, boiled",
     "keto": "no",
     "category": "Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"3377"},
 	"details":{
 		"protein":8.86,
 		"fat":0.54,
@@ -1449,7 +1430,6 @@
     "name": "Lentils, boiled",
     "keto": "no",
     "category": "Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"3393"},
 	"details":{
 		"protein":9.02,
 		"fat":0.38,
@@ -1462,7 +1442,6 @@
     "name": "Lima beans, boiled",
     "keto": "no",
     "category": "Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"2004"},
 	"details":{
 		"protein":6.81,
 		"fat":0.32,
@@ -1475,7 +1454,6 @@
     "name": "Pinto beans, boiled",
     "keto": "no",
     "category": "Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"3270"},
 	"details":{
 		"protein":9.01,
 		"fat":0.65,
@@ -1488,7 +1466,6 @@
     "name": "Broadbeans (Fava beans), boiled",
     "keto": "no",
     "category": "Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"3388"},
 	"details":{
 		"protein":4.80,
 		"fat":0.50,
@@ -1501,7 +1478,6 @@
     "name": "Pineapple, raw",
     "keto": "no",
     "category": "Fruit",
-    "code":{"type":"FNC", "id":"1734"},
 	"details":{
 		"protein":0.54,
 		"fat":0.12,
@@ -1514,7 +1490,6 @@
     "name": "Papaya, raw",
     "keto": "no",
     "category": "Fruit",
-    "code":{"type":"FNC", "id":"1628"},
 	"details":{
 		"protein":0.47,
 		"fat":0.26,
@@ -1527,7 +1502,6 @@
     "name": "Grapes, raw",
     "keto": "no",
     "category": "Fruit",
-    "code":{"type":"FNC", "id":"1718"},
 	"details":{
 		"protein":0.63,
 		"fat":0.35,
@@ -1540,7 +1514,6 @@
     "name": "Mangos",
     "keto": "no",
     "category": "Fruit",
-    "code":{"type":"FNC", "id":"1603"},
 	"details":{
 		"protein":0.82,
 		"fat":0.38,
@@ -1553,7 +1526,6 @@
     "name": "Tangerine (mandarin), raw",
     "keto": "no",
     "category": "Fruit",
-    "code":{"type":"FNC", "id":"1623"},
 	"details":{
 		"protein":0.81,
 		"fat":0.31,
@@ -1566,7 +1538,6 @@
     "name": "Beer, light",
     "keto": "no",
     "category": "Beverages",
-    "code":{"type":"FNC", "id":"2835"},
 	"details":{
 		"protein":0.24,
 		"fat":0.00,
@@ -1579,7 +1550,6 @@
     "name": "Beer, regular",
     "keto": "no",
     "category": "Beverages",
-    "code":{"type":"FNC", "id":"2943"},
 	"details":{
 		"protein":0.46,
 		"fat":0.00,
@@ -1592,7 +1562,6 @@
     "name": "Wine",
     "keto": "no",
     "category": "Beverages",
-    "code":{"type":"FNC", "id":"2849"},
 	"details":{
 		"protein":0.07,
 		"fat":0.00,
@@ -1605,7 +1574,6 @@
     "name": "Honey",
     "keto": "no",
     "category":"Sweeteners",
-    "code":{"type":"NDB", "id":"19296"},
 	"details":{
 		"protein":0.30,
 		"fat":0.00,
@@ -1618,7 +1586,6 @@
     "name": "Agave nectar",
     "keto": "no",
     "category":"Sweeteners",
-    "code":{"type":"FNC", "id":"7129"},
     "details":{
       "carb":76.37,
       "protein":0.09,
@@ -1631,7 +1598,6 @@
     "name": "Maple syrup",
     "keto": "no",
     "category":"Sweeteners",
-    "code":{"type":"FNC", "id":"4326"},
 	"details":{
 		"protein":0.09,
 		"fat":0.45,
@@ -1644,7 +1610,6 @@
     "name": "Raw sugar",
     "keto": "no",
     "category":"Sweeteners",
-    "code":{"type":"NDB", "id":"19335"},
     "details":{
       "carb":84.77,
       "protein":2.06,
@@ -1657,7 +1622,6 @@
     "name": "Turbinado sugar",
     "keto": "no",
     "category":"Sweeteners",
-    "code":{"type":"NDB", "id":"19908"},
     "details":{
       "carb":99.80,
       "protein":0.00,
@@ -1670,7 +1634,6 @@
     "name": "High-fructose corn syrup",
     "keto": "no",
     "category":"Sweeteners",
-    "code":{"type":"NDB", "id":"19351"},
 	"details":{
 		"protein":0.00,
 		"fat":0.00,
@@ -1683,7 +1646,6 @@
     "name": "Cane sugar",
     "keto": "no",
     "category":"Sweeteners",
-    "code":{"type":"NDB", "id":"90480"},
 	"details":{
 		"protein":0.00,
 		"fat":0.00,
@@ -1696,7 +1658,6 @@
     "name": "White sugar",
     "keto": "no",
     "category":"Sweeteners",
-    "code":{"type":"NDB", "id":"19336"},
 	"details":{
 		"protein":0.00,
 		"fat":0.00,
@@ -1709,7 +1670,6 @@
     "name": "Milk (2%, skim, whole)",
     "keto": "no",
     "category":"Dairy",
-    "code":{"type":"FNC", "id":"61"},
 	"details":{
 		"protein":4.04,
 		"fat":2.02,
@@ -1722,7 +1682,6 @@
     "name": "Eggs",
     "keto": "yes",
     "category":"Dairy",
-    "code":{"type":"FNC", "id":"125"},
 	"details":{
 		"protein":12.56,
 		"fat":9.51,
@@ -1735,7 +1694,6 @@
     "name": "Peanuts",
     "keto": "no",
     "category":"Nuts & Seeds",
-    "code":{"type":"FNC", "id":"3396"},
 	"details":{
 		"protein":25.80,
 		"fat":49.24,
@@ -1748,7 +1706,6 @@
     "name": "Strawberry",
     "keto": "yes",
     "category":"Fruit",
-    "code":{"type":"FNC", "id":"1749"},
 	"details":{
 		"protein":0.67,
 		"fat":0.30,
@@ -1761,7 +1718,6 @@
     "name": "Tomato",
     "keto": "yes",
     "category":"Fruit",
-    "code":{"type":"FNC", "id":"2460"},
 	"details":{
 		"protein":0.88,
 		"fat":0.20,
@@ -1774,7 +1730,6 @@
     "name": "Cottage Cheese 2%",
     "keto": "yes",
     "category":"Dairy",
-    "code":{"type":"FNC", "id":"120"},
 	"details":{
 		"protein":10.45,
 		"fat":2.27,
@@ -1787,7 +1742,6 @@
     "name": "Blueberry",
     "keto": "no",
     "category":"Fruit",
-    "code":{"type":"FNC", "id":"1705"},
 	"details":{
 		"protein":0.74,
 		"fat":0.33,
@@ -1800,7 +1754,6 @@
     "name": "Carrot",
     "keto": "yes",
     "category":"Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"2380"},
 	"details":{
 		"protein":0.93,
 		"fat":0.24,
@@ -1813,7 +1766,6 @@
     "name": "Pecans",
     "keto": "yes",
     "category":"Nuts & Seeds",
-    "code":{"type":"FNC", "id":"2582"},
 	"details":{
 		"protein":9.17,
 		"fat":71.97,
@@ -1826,7 +1778,6 @@
     "name": "Cashews",
     "keto": "no",
     "category":"Nuts & Seeds",
-    "code":{"type":"FNC", "id":"5709"},
 	"details":{
 		"protein":18.22,
 		"fat":43.85,
@@ -1839,7 +1790,6 @@
     "name": "Raspberry",
     "keto": "yes",
     "category":"Fruit",
-    "code":{"type":"FNC", "id":"1747"},
 	"details":{
 		"protein":1.20,
 		"fat":0.65,
@@ -1852,7 +1802,6 @@
     "name": "Shrimp",
     "keto": "yes",
     "category":"Meat & Substitutes",
-    "code":{"type":"FNC", "id":"3211"},
 	"details":{
 		"protein":13.61,
 		"fat":1.01,
@@ -1865,7 +1814,6 @@
     "name": "Butternut squash",
     "keto": "yes",
     "category":"Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"2451"},
 	"details":{
 		"protein":1.05,
 		"fat":0.14,
@@ -1890,7 +1838,6 @@
     "name": "Popcorn",
     "keto": "no",
     "category":"Nuts & Seeds",
-    "code":{"type":"FNC", "id":"4110"},
 	"details":{
 		"protein":12.94,
 		"fat":4.54,
@@ -1903,7 +1850,6 @@
     "name": "Pumpkin",
     "keto": "yes",
     "category":"Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"2441"},
 	"details":{
 		"protein":1.00,
 		"fat":0.10,
@@ -1916,7 +1862,6 @@
     "name": "Spaghetti squash",
     "keto": "yes",
     "category":"Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"2458"},
 	"details":{
 		"protein":0.64,
 		"fat":0.57,
@@ -1929,7 +1874,6 @@
     "name": "Brazil nuts",
     "keto": "yes",
     "category":"Nuts & Seeds",
-    "code":{"type":"FNC", "id":"2544"},
 	"details":{
 		"protein":14.32,
 		"fat":67.10,
@@ -1942,7 +1886,6 @@
     "name": "Brussel Sprouts",
     "keto": "yes",
     "category":"Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"2378"},
 	"details":{
 		"protein":3.38,
 		"fat":0.30,
@@ -1955,7 +1898,6 @@
     "name": "Cucumber",
     "keto": "yes",
     "category":"Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"2363"},
 	"details":{
 		"protein":0.65,
 		"fat":0.11,
@@ -1968,7 +1910,6 @@
     "name": "Cheese, Gouda",
     "keto": "yes",
     "category":"Dairy",
-    "code":{"type":"FNC", "id":"109"},
 	"details":{
 		"protein":24.94,
 		"fat":28.00,
@@ -1981,7 +1922,6 @@
     "name": "Grapefruit",
     "keto": "no",
     "category":"Fruit",
-    "code":{"type":"FNC", "id":"1562"},
 	"details":{
 		"protein":0.77,
 		"fat":0.14,
@@ -1994,7 +1934,6 @@
     "name": "Half and Half (coffee creamer)",
     "keto": "yes",
     "category":"Dairy",
-    "code":{"type":"FNC", "id":"150"},
 	"details":{
 		"protein":2.99,
 		"fat":10.00,
@@ -2007,7 +1946,6 @@
     "name": "Hummus / Hummous",
     "keto": "no",
     "category":"Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"4870"},
 	"details":{
 		"protein":7.90,
 		"fat":9.60,
@@ -2020,7 +1958,6 @@
     "name": "Ice cream",
     "keto": "no",
     "category":"Dairy",
-    "code":{"type":"FNC", "id":"4163"},
 	"details":{
 		"protein":3.50,
 		"fat":11.00,
@@ -2033,7 +1970,6 @@
     "name": "Kefir, plain",
     "keto": "yes",
     "category":"Dairy",
-    "code":{"type":"FNC", "id":"6291"},
 	"details":{
 		"protein":3.50,
 		"fat":3.60,
@@ -2046,7 +1982,6 @@
     "name": "Kiwi",
     "keto": "no",
     "category":"Fruit",
-    "code":{"type":"FNC", "id":"1585"},
 	"details":{
 		"protein":1.14,
 		"fat":0.52,
@@ -2059,7 +1994,6 @@
     "name": "Peach",
     "keto": "no",
     "category":"Fruit",
-    "code":{"type":"FNC", "id":"1728"},
 	"details":{
 		"protein":0.91,
 		"fat":0.25,
@@ -2072,7 +2006,6 @@
     "name": "Pistachio",
     "keto": "no",
     "category":"Nuts & Seeds",
-    "code":{"type":"FNC", "id":"2644"},
 	"details":{
 		"protein":20.27,
 		"fat":45.39,
@@ -2085,7 +2018,6 @@
     "name": "Soy Sauce (Tamari)",
     "keto": "yes",
     "category":"Condiments & Cooking Ingredients",
-    "code":{"type":"FNC", "id":"3329"},
 	"details":{
 		"protein":10.51,
 		"fat":0.10,
@@ -2098,7 +2030,6 @@
     "name": "Tofu",
     "keto": "yes",
     "category": "Meat & Substitutes",
-    "code":{"type":"FNC", "id":"3418"},
 	"details":{
 		"protein":8.08,
 		"fat":4.78,
@@ -2111,7 +2042,6 @@
     "name": "Tortilla, corn",
     "keto": "no",
     "category": "Grain Products",
-    "code":{"type":"FNC", "id":"3997"},
 	"details":{
 		"protein":5.70,
 		"fat":2.85,
@@ -2124,7 +2054,6 @@
     "name": "Tortilla, flour",
     "keto": "no",
     "category": "Grain Products",
-    "code":{"type":"FNC", "id":"4049"},
 	"details":{
 		"protein":8.70,
 		"fat":7.10,
@@ -2137,7 +2066,6 @@
     "name": "Tuna, white, canned with water",
     "keto": "yes",
     "category": "Meat & Substitutes",
-    "code":{"type":"FNC", "id":"3131"},
 	"details":{
 		"protein":23.62,
 		"fat":2.97,
@@ -2150,7 +2078,6 @@
     "name": "Tuna, white, canned with oil",
     "keto": "yes",
     "category": "Meat & Substitutes",
-    "code":{"type":"FNC", "id":"3214"},
 	"details":{
 		"protein":26.53,
 		"fat":8.08,
@@ -2163,7 +2090,6 @@
     "name": "Turkey",
     "keto": "yes",
     "category": "Meat & Substitutes",
-    "code":{"type":"FNC", "id":"688"},
 	"details":{
 		"protein":22.83,
 		"fat":3.48,
@@ -2176,7 +2102,6 @@
     "name": "Vodka",
     "keto": "yes",
     "category":"Beverages",
-    "code":{"type":"FNC", "id":"2846"},
 	"details":{
 		"protein":0.00,
 		"fat":0.00,
@@ -2189,7 +2114,6 @@
     "name": "Eggplant (aubergine, brinjal)",
     "keto": "yes",
     "category":"Vegetables & Legumes",
-    "code":{"type":"FNC", "id":"2088"},
 	"details":{
 		"protein":0.98,
 		"fat":0.18,
@@ -2202,7 +2126,6 @@
     "name": "Balsamic Vinegar",
     "keto": "no",
     "category":"Condiments & Cooking Ingredients",
-    "code":{"type":"FNC", "id":"6196"},
 	"details":{
 		"protein":0.49,
 		"fat":0.00,
@@ -2215,7 +2138,6 @@
 		"name": "Beets, boiled",
 		"keto": "no",
 		"category":"Vegetables & Legumes",
-    		"code":{"type":"FNC", "id":"2501"},
 		"details":{
 			"protein":1.68,
 			"fat":0.18,
@@ -2228,7 +2150,6 @@
 		"name": "Olive, pickled",
 		"keto": "yes",
 		"category":"Vegetables & Legumes",
-   		"code":{"type":"FNC", "id":"5391"},
 		"details":{
 			"protein":1.03,
 			"fat":15.32,
@@ -2241,7 +2162,6 @@
 		"name": "Olive, ripe, canned",
 		"keto": "yes",
 		"category":"Vegetables & Legumes",
-    		"code":{"type":"FNC", "id":"1613"},
 		"details":{
 			"protein":0.84,
 			"fat":10.68,
@@ -2254,7 +2174,6 @@
 		"name": "Bratwurst, pork",
 		"keto": "yes",
 		"category": "Meat & Substitutes",
-    		"code":{"type":"FNC", "id":"1182"},
 		"details":{
 			"protein":17.88,
 			"fat":23.30,
@@ -2267,7 +2186,6 @@
 		"name": "Ginger root",
 		"keto": "no",
 		"category":"Condiments & Cooking Ingredients",
-    		"code":{"type":"FNC", "id":"2091"},
 		"details":{
 			"protein":1.82,
 			"fat":0.75,
@@ -2280,7 +2198,6 @@
 		"name": "Goat cheese, soft",
 		"keto": "yes",
 		"category": "Dairy",
-    		"code":{"type":"FNC", "id":"98"},
 		"details":{
 			"protein":18.52,
 			"fat":21.08,
@@ -2293,7 +2210,6 @@
 		"name": "Goat cheese, semi-soft",
 		"keto": "yes",
 		"category": "Dairy",
-    		"code":{"type":"FNC", "id":"97"},
 		"details":{
 			"protein":21.58,
 			"fat":29.84,
@@ -2306,7 +2222,6 @@
 		"name": "Goat cheese, hard",
 		"keto": "yes",
 		"category": "Dairy",
-    		"code":{"type":"FNC", "id":"96"},
 		"details":{
 			"protein":30.52,
 			"fat":35.59,
