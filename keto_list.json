@@ -889,13 +889,15 @@
   },
   {
     "id": "79",
-    "name": "Almond Milk",
+    "name": "Almond Milk (unsweetened)",
     "keto": "no",
     "category": "Beverages",
+    "code":{"type":"NDB", "id":14091},
     "details":{
-      "carb":12.94,
-      "protein":3.53,
-      "fat":2.35
+      "fibre":0.00
+      "carb":0.58,
+      "protein":0.59,
+      "fat":1.10
     }
   },
   {
