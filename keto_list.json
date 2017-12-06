@@ -4,23 +4,25 @@
     "name": "Fish, Salmon",
     "keto": "yes",
     "category": "Meat & Substitutes",
+    "code":{"type":"FNC", "id":3049},
     "details":{
-	"fibre":0.00,
-      "carb":0.00,
       "protein":19.84,
-      "fat":6.34	
+      "fat":6.34,
+      "carb":0.00,
+      "fibre":0.00
     }
   },
   {
     "id": "2",
-    "name": "Beef, ground, extra lean",
+    "name": "Ground Beef",
     "keto": "yes",
     "category": "Meat & Substitutes",
+    "code":{"type":"FNC", "id":2690},
     "details":{
-	"fibre":0.00,
+      "protein":18.90,
+      "fat":16.10,
       "carb":0.0,
-      "protein":20.88,
-      "fat":7.59
+      "fibre":0.00
     }
   },
   {
@@ -28,11 +30,12 @@
     "name": "Chicken breast",
     "keto": "yes",
     "category": "Meat & Substitutes",
+    "code":{"type":"FNC", "id":841},
     "details":{
-	"fibre":0.00,
-      "carb":0.0,
       "protein":22.50,
-      "fat":2.62
+      "fat":2.62,
+      "carb":0.0,
+      "fibre":0.00
     }
   },
   {
@@ -647,13 +650,15 @@
   },
   {
     "id": "59",
-    "name": "Ham (Cured without use of sugar)",
+    "name": "Ham (cured)",
     "keto": "yes",
     "category": "Meat & Substitutes",
+    "code":{"type":"FNC", "id":6213},
     "details":{
-      "carb":3.25,
-      "protein":18.03,
-      "fat":3.25
+      "protein":21.61,
+      "fat":9.85,
+      "carb":0.41,
+      "fibre":0.00
     }
   },
   {
