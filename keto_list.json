@@ -1,4 +1,3 @@
-
 [
   {
     "id": "1",
@@ -6,9 +5,10 @@
     "keto": "yes",
     "category": "Meat & Substitutes",
     "details":{
+	"fibre":0.00,
       "carb":0.00,
-      "protein":19.93,
-      "fat":10.43
+      "protein":19.84,
+      "fat":6.34	
     }
   },
   {
@@ -17,6 +17,7 @@
     "keto": "yes",
     "category": "Meat & Substitutes",
     "details":{
+	"fibre":0.00,
       "carb":0.0,
       "protein":20.88,
       "fat":7.59
@@ -28,6 +29,7 @@
     "keto": "yes",
     "category": "Meat & Substitutes",
     "details":{
+	"fibre":0.00,
       "carb":0.0,
       "protein":22.50,
       "fat":2.62
@@ -39,6 +41,7 @@
     "keto": "yes",
     "category": "Meat & Substitutes",
     "details":{
+	"fibre":0.00,
       "carb":0.0,
       "protein":20.71,
       "fat":9.03
@@ -50,6 +53,7 @@
     "keto": "yes",
     "category": "Meat & Substitutes",
     "details":{
+	"fibre":0.00,
       "carb":1.28,
       "protein":12.62,
       "fat":39.69
@@ -61,6 +65,7 @@
     "keto": "yes",
     "category": "Meat & Substitutes",
     "details":{
+	"fibre":0.00,
       "carb":3.57,
       "protein":14.67,
       "fat":0.96
@@ -72,6 +77,7 @@
     "keto": "yes",
     "category": "Meat & Substitutes",
     "details":{
+	"fibre":0.00,
       "carb":0.0,
       "protein":0.0,
       "fat":100.0
@@ -83,6 +89,7 @@
     "keto": "yes",
     "category": "Dairy",
     "details":{
+	"fibre":0.00,
       "carb":0.06,
       "protein":0.85,
       "fat":81.1
@@ -91,9 +98,11 @@
   {
     "id": "9",
     "name": "Macademia nuts",
-    "keto": "yes",
+    "keto": "yes", 
+	"code":{"type":"FNC", "id":2575},
     "category": "Nuts & Seeds",
     "details":{
+		"fibre":8.6,
       "carb":13.82,
       "protein":7.91,
       "fat":75.77
@@ -104,7 +113,9 @@
     "name": "Chicken fat",
     "keto": "yes",
     "category": "Meat & Substitutes",
+	"code":{"type":"FNC", "id":445},
     "details":{
+      "fibre":0.00,
       "carb":0.0,
       "protein":0.0,
       "fat":99.80
@@ -115,7 +126,9 @@
     "name": "Olive oil",
     "keto": "yes",
     "category": "Condiments & Cooking Ingredients",
+	"code":{"type":"FNC", "id":422},
     "details":{
+      "fibre":0.00,
       "carb":0.0,
       "protein":0.0,
       "fat":100.0
@@ -126,7 +139,9 @@
     "name": "Avocado",
     "keto": "yes",
     "category": "Fruit",
+	"code":{"type":"FNC", "id":1511},
     "details":{
+      "fibre":6.7,
       "carb":8.53,
       "protein":2.0,
       "fat":14.66
@@ -137,7 +152,9 @@
     "name": "Peanut Butter",
     "keto": "yes",
     "category": "Condiments & Cooking Ingredients",
+	"code":{"type":"FNC", "id":6289},
     "details":{
+      "fibre":8.0,
       "carb":21.51,
       "protein":23.68,
       "fat":49.66
@@ -148,7 +165,9 @@
     "name": "Asparagus",
     "keto": "yes",
     "category": "Vegetables & Legumes",
+	"code":{"type":"FNC", "id":1990},
     "details":{
+      "fibre":2.1,
       "carb":3.88,
       "protein":2.20,
       "fat":0.12
@@ -159,10 +178,12 @@
     "name": "Broccoli",
     "keto": "yes",
     "category": "Vegetables & Legumes",
+	"code":{"type":"FNC", "id":2374},
     "details":{
-      "carb":5.24,
-      "protein":2.98,
-      "fat":0.35
+      "fibre":2.4,
+      "carb":6.64,
+      "protein":2.82,
+      "fat":0.37
     }
   },
   {
@@ -170,7 +191,9 @@
     "name": "Celery",
     "keto": "yes",
     "category": "Vegetables & Legumes",
+	"code":{"type":"FNC", "id":2386},
     "details":{
+      "fibre":1.5,
       "carb":2.97,
       "protein":0.69,
       "fat":0.17
@@ -181,7 +204,9 @@
     "name": "Garlic",
     "keto": "yes",
     "category": "Vegetables & Legumes",
+	"code":{"type":"FNC", "id":2394},
     "details":{
+      "fibre":2.1,
       "carb":33.06,
       "protein":6.36,
       "fat":0.5
@@ -192,7 +217,9 @@
     "name": "Onions",
     "keto": "yes",
     "category": "Vegetables & Legumes",
+	"code":{"type":"FNC", "id":2401},
     "details":{
+      "fibre":1.7,
       "carb":9.34,
       "protein":1.10,
       "fat":0.10
@@ -203,7 +230,9 @@
     "name": "Mushrooms, white",
     "keto": "yes",
     "category": "Vegetables & Legumes",
+	"code":{"type":"FNC", "id":2399},
     "details":{
+      "fibre":1.0,
       "carb":3.28,
       "protein":3.09,
       "fat":0.34
@@ -214,7 +243,9 @@
     "name": "Romaine Lettuce",
     "keto": "yes",
     "category": "Vegetables & Legumes",
+	"code":{"type":"FNC", "id":2116},
     "details":{
+      "fibre":2.1,
       "carb":3.29,
       "protein":1.23,
       "fat":0.30
@@ -225,7 +256,9 @@
     "name": "Heavy whipping cream",
     "keto": "yes",
     "category": "Dairy",
+	"code":{"type":"FNC", "id":138},
     "details":{
+      "fibre":0.00,
       "carb":2.85,
       "protein":2.09,
       "fat":35.0
@@ -236,7 +269,9 @@
     "name": "Sour Cream",
     "keto": "yes",
     "category": "Vegetables & Legumes",
+	"code":{"type":"FNC", "id":152},
     "details":{
+      "fibre":0.00,
       "carb":4.27,
       "protein":3.09,
       "fat":18.0
@@ -247,7 +282,9 @@
     "name": "Walnuts",
     "keto": "yes",
     "category": "Nuts & Seeds",
+	"code":{"type":"FNC", "id":2589},
     "details":{
+      "fibre":6.8,
       "carb":9.58,
       "protein":24.06,
       "fat":59.33
@@ -258,10 +295,12 @@
     "name": "Almonds",
     "keto": "yes",
     "category": "Nuts & Seeds",
+	"code":{"type":"FNC", "id":2536},
     "details":{
-      "carb":21.55,
-      "protein":21.15,
-      "fat":49.93
+      "fibre":10.9,
+      "carb":21.01,
+      "protein":20.96,
+      "fat":52.54
     }
   },
   {
@@ -280,7 +319,9 @@
     "name": "Sunflower seeds",
     "keto": "yes",
     "category": "Nuts & Seeds",
+	"code":{"type":"FNC", "id":2526},
     "details":{
+      "fibre":8.6,
       "carb":20.0,
       "protein":20.78,
       "fat":51.46
@@ -291,7 +332,9 @@
     "name": "Water",
     "keto": "yes",
     "category": "Beverages",
+	"code":{"type":"FNC", "id":2933},
     "details":{
+      "fibre":0.00,
       "carb":0.0,
       "protein":0.0,
       "fat":0.0
@@ -302,10 +345,12 @@
     "name": "Coffee (black)",
     "keto": "yes",
     "category": "Beverages",
+	"code":{"type":"FNC", "id":2875},
     "details":{
-      "carb":0.0,
-      "protein":0.12,
-      "fat":0.02
+      "fibre":0.00,
+      "carb":0.34,
+      "protein":0.10,
+      "fat":0.00
     }
   },
   {
@@ -313,7 +358,9 @@
     "name": "Tea (Without milk & sugar)",
     "keto": "yes",
     "category": "Beverages",
+	"code":{"type":"FNC", "id":2909},
     "details":{
+      "fibre":0.00,
       "carb":0.30,
       "protein":0.0,
       "fat":0.0
@@ -335,7 +382,9 @@
     "name": "Cocoa Butter",
     "keto": "yes",
     "category": "Condiments & Cooking Ingredients",
+	"code":{"type":"FNC", "id":429},
     "details":{
+      "fibre":0.00,
       "carb":0.0,
       "protein":0.0,
       "fat":100.0
@@ -346,7 +395,9 @@
     "name": "Coconut Oil",
     "keto": "yes",
     "category": "Condiments & Cooking Ingredients",
+	"code":{"type":"FNC", "id":420},
     "details":{
+      "fibre":0.00,
       "carb":0.0,
       "protein":0.0,
       "fat":100.0
@@ -357,7 +408,9 @@
     "name": "Avocado Oil",
     "keto": "yes",
     "category": "Condiments & Cooking Ingredients",
+	"code":{"type":"FNC", "id":450},
     "details":{
+      "fibre":0.00,
       "carb":0.0,
       "protein":0.0,
       "fat":100.0
@@ -390,7 +443,9 @@
     "name": "Lard",
     "keto": "yes",
     "category": "Condiments & Cooking Ingredients",
+	"code":{"type":"FNC", "id":464},
     "details":{
+      "fibre":0.0,
       "carb":0.0,
       "protein":0.0,
       "fat":100.0
@@ -401,10 +456,12 @@
     "name": "Oysters",
     "keto": "yes",
     "category": "Meat & Substitutes",
+	"code":{"type":"FNC", "id":3118},
     "details":{
-      "carb":5.53,
-      "protein":5.22,
-      "fat":1.55
+      "fibre":0.00,
+      "carb":2.72,
+      "protein":5.71,
+      "fat":1.71
     }
   },
   {
@@ -412,7 +469,9 @@
     "name": "Lobster",
     "keto": "yes",
     "category": "Meat & Substitutes",
+	"code":{"type":"FNC", "id":3209},
     "details":{
+      "fibre":0.00,
       "carb":0.00,
       "protein":16.52,
       "fat":0.75
@@ -423,7 +482,9 @@
     "name": "Crab",
     "keto": "yes",
     "category": "Meat & Substitutes",
+	"code":{"type":"FNC", "id":3100},
     "details":{
+      "fibre":0.00,
       "carb":0.74,
       "protein":17.41,
       "fat":0.97
@@ -434,7 +495,9 @@
     "name": "Scallops",
     "keto": "yes",
     "category": "Meat & Substitutes",
+	"code":{"type":"FNC", "id":3213},
     "details":{
+      "fibre":0.00,
       "carb":3.18,
       "protein":12.06,
       "fat":0.49
@@ -445,7 +508,9 @@
     "name": "Mussels",
     "keto": "yes",
     "category": "Meat & Substitutes",
+	"code":{"type":"FNC", "id":3115},
     "details":{
+      "fibre":0.00,
       "carb":3.69,
       "protein":11.90,
       "fat":2.24
@@ -453,10 +518,12 @@
   },
   {
     "id": "47",
-    "name": "squid",
+    "name": "Squid",
     "keto": "yes",
     "category": "Meat & Substitutes",
+	"code":{"type":"FNC", "id":3125},
     "details":{
+      "fibre":0.00,
       "carb":3.08,
       "protein":15.58,
       "fat":1.38
@@ -467,7 +534,9 @@
     "name": "Steak, sirloin",
     "keto": "yes",
     "category": "Meat & Substitutes",
+	"code":{"type":"FNC", "id":6142},
     "details":{
+      "fibre":0.00,
       "carb":0.0,
       "protein":21.40,
       "fat":8.50
@@ -478,7 +547,9 @@
     "name": "Beef Roast",
     "keto": "yes",
     "category": "Meat & Substitutes",
+	"code":{"type":"FNC", "id":5945},
     "details":{
+      "fibre":0.00,
       "carb":0.0,
       "protein":19.40,
       "fat":12.04
