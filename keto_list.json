@@ -894,7 +894,7 @@
     "category": "Beverages",
     "code":{"type":"NDB", "id":14091},
     "details":{
-      "fibre":0.00
+      "fibre":0.00,
       "carb":0.58,
       "protein":0.59,
       "fat":1.10
