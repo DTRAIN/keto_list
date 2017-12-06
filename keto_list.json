@@ -312,6 +312,7 @@
     "name": "Almond Flour",
     "keto": "yes",
     "category": "Nuts & Seeds",
+    "code":{"type":"NDB", "id":"45085293"},
     "details":{
       "carb":24.00,
       "protein":24.00,
@@ -375,6 +376,7 @@
     "name": "Coconut Butter",
     "keto": "yes",
     "category": "Condiments & Cooking Ingredients",
+    "code":{"type":"NDB", "id":"45088782"},
     "details":{
       "carb":0.0,
       "protein":0.0,
@@ -425,6 +427,7 @@
     "name": "Macadamia Oil",
     "keto": "yes",
     "category": "Condiments & Cooking Ingredients",
+    "code":{"type":"FNC", "id":"45238022"},
     "details":{
       "carb":0.0,
       "protein":0.0,
@@ -436,6 +439,7 @@
     "name": "MCT Oil",
     "keto": "yes",
     "category": "Condiments & Cooking Ingredients",
+    "code":{"type":"FNC", "id":"45325089"},
     "details":{
       "carb":0.0,
       "protein":0.0,
