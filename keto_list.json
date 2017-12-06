@@ -56,11 +56,12 @@
     "name": "Bacon",
     "keto": "yes",
     "category": "Meat & Substitutes",
+    "code":{"type":"FNC", "id":1936},
     "details":{
-	"fibre":0.00,
-      "carb":1.28,
       "protein":12.62,
-      "fat":39.69
+      "fat":39.69,
+      "carb":1.28,
+      "fibre":0.00
     }
   },
   {
@@ -68,11 +69,12 @@
     "name": "Clams",
     "keto": "yes",
     "category": "Meat & Substitutes",
+    "code":{"type":"FNC", "id":3109},
     "details":{
-	"fibre":0.00,
-      "carb":3.57,
       "protein":14.67,
-      "fat":0.96
+      "fat":0.96,
+      "carb":3.57,
+      "fibre":0.00
     }
   },
   {
@@ -80,11 +82,12 @@
     "name": "Beef tallow",
     "keto": "yes",
     "category": "Meat & Substitutes",
+    "code":{"type":"FNC", "id":414},
     "details":{
-	"fibre":0.00,
-      "carb":0.0,
       "protein":0.0,
-      "fat":100.0
+      "fat":100.0,
+      "carb":0.0,
+      "fibre":0.00,
     }
   },
   {
@@ -92,11 +95,12 @@
     "name": "Butter",
     "keto": "yes",
     "category": "Dairy",
+    "code":{"type":"FNC", "id":118},
     "details":{
-	"fibre":0.00,
-      "carb":0.06,
       "protein":0.85,
-      "fat":81.1
+      "fat":81.1,
+      "carb":0.06,
+      "fibre":0.00
     }
   },
   {
